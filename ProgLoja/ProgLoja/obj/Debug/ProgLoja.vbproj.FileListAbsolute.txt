@@ -1,0 +1,49 @@
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\bin\Debug\ProgLoja.exe.config
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\bin\Debug\ProgLoja.exe
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\bin\Debug\ProgLoja.pdb
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\bin\Debug\ProgLoja.xml
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.vbprojResolveAssemblyReference.cache
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.BuscaCliente.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.BuscaForn.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.buscaProduto.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadCliente.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadFornecedor-old.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadFornecedor.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadProduto.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadUsuario.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadEmpresa.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadVenda.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.Form1.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.FormConsulta.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.Login.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.Resources.resources
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.vbproj.GenerateResource.Cache
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.exe
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.xml
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.pdb
+C:\Users\Zod\Desktop\Projeto FTP aula\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadUsuarioNovo.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\bin\Debug\ProgLoja.exe.config
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.exe
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.xml
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.pdb
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\bin\Debug\ProgLoja.exe
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\bin\Debug\ProgLoja.pdb
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\bin\Debug\ProgLoja.xml
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.vbprojResolveAssemblyReference.cache
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.BuscaCliente.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.BuscaForn.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.buscaProduto.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadCliente.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadFornecedor-old.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadFornecedor.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadProduto.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadUsuario.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadEmpresa.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadUsuarioNovo.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.CadVenda.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.Form1.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.FormConsulta.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.Login.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.Resources.resources
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\obj\Debug\ProgLoja.vbproj.GenerateResource.Cache
+C:\Users\Zod\Desktop\nayara\ProgLoja\ProgLoja\bin\Debug\BancoDeDados.sdf
